@@ -1,5 +1,8 @@
 Passionate about digital world,
-self-taught, I love to learn and discover new things.
+
+self-taught,
+I love to learn and discover new things.
+
 I am a  junior webdesigner and I am curently starting
 a webdev cursus to learn and do even more!
 
