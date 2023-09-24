@@ -4,7 +4,6 @@ a webdev cursus to learn and do even more!</h2>
 
 ![icons8-html-5-48](https://github.com/lutchoo/lutchoo/assets/134637271/605587f8-3e52-481c-8c48-6cca63928734)
 ![icons8-css-48](https://github.com/lutchoo/lutchoo/assets/134637271/f1d9d199-765e-4552-86e5-2d45afecd30a)
-
 ![icons8-javascript-48](https://github.com/lutchoo/lutchoo/assets/134637271/61dd2f6e-def8-4f5c-bafc-55542314b275)
 ![icons8-php-48](https://github.com/lutchoo/lutchoo/assets/134637271/fc44a20f-5b72-4097-95e2-cc73e39a82fa)
 ![icons8-mariadb-48](https://github.com/lutchoo/lutchoo/assets/134637271/c7250cf9-6ef1-493e-a75f-936f16d83459)
