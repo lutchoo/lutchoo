@@ -1,6 +1,6 @@
-<h2>Passionate about digital world, I love to learn and discover new things.
-I am a  junior webdesigner and I am curently starting
-a webdev cursus to learn and do even more!</h2>
+<h2Passionate about the digital world, I like to learn and discover new things.
+I am a junior web designer and I am currently starting
+a webdev course to learn and do even more!</h2>
 
 ![icons8-html-5-48](https://github.com/lutchoo/lutchoo/assets/134637271/605587f8-3e52-481c-8c48-6cca63928734)
 ![icons8-css-48](https://github.com/lutchoo/lutchoo/assets/134637271/f1d9d199-765e-4552-86e5-2d45afecd30a)
