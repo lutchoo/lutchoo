@@ -1,4 +1,4 @@
-<h2Passionate about the digital world, I like to learn and discover new things.
+<h2>Passionate about the digital world, I like to learn and discover new things.
 I am a junior web designer and I am currently starting
 a webdev course to learn and do even more!</h2>
 
